@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../c2c_mail/.idea/c2c_mail.iml" filepath="$PROJECT_DIR$/../c2c_mail/.idea/c2c_mail.iml" />
+      <module fileurl="file://$USER_HOME$/pycharm_projects/poolauto/.idea/poolauto.iml" filepath="$USER_HOME$/pycharm_projects/poolauto/.idea/poolauto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/talkpythontome.iml" filepath="$PROJECT_DIR$/.idea/talkpythontome.iml" />
+    </modules>
+  </component>
+</project>
